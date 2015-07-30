@@ -1,5 +1,9 @@
 # Bundler Link
 
+**STATUS: Under development**
+
+---
+
 A bundler command to quickly link up gems from your local filesystem
 inside your Gemfile.
 
